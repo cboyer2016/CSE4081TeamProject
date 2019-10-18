@@ -1,4 +1,4 @@
-# CSE4081TeamProject
+# Discrete Log Algorithm
 Implemented algorithms for cracking the Discrete Logarithm Problem (DLP)
 
 ## Test cases
