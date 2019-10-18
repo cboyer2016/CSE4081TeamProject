@@ -20,3 +20,4 @@ The steps to run with a profiler in python are outlined below:
 As well as the results when running with a profiler:
 ![image](https://user-images.githubusercontent.com/35845396/67109715-1ff8bd80-f19f-11e9-9885-77c49bc89caa.png)
 
+Google Docs to analyze diff algos
