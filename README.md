@@ -1,5 +1,5 @@
 # CSE4081TeamProject
-Implemented algorithms for cracking Discrete Logarithm Problem (DLP)
+Implemented algorithms for cracking the Discrete Logarithm Problem (DLP)
 
 ## Test cases
 
