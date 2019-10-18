@@ -16,7 +16,7 @@ The steps to run with a profiler in python are outlined below:
 ![image](https://user-images.githubusercontent.com/35845396/67109606-df00a900-f19e-11e9-8666-bc3b015ed6e7.png)
 
 ###### Profiler examples:
-![image](https://user-images.githubusercontent.com/35845396/67109567-c8f2e880-f19e-11e9-8012-688f4a468a26.png)
+![image](https://user-images.githubusercontent.com/35845396/67115130-7bc94380-f1ab-11e9-8153-a387053adac7.png)
 As well as the results when running with a profiler:
 ![image](https://user-images.githubusercontent.com/35845396/67109715-1ff8bd80-f19f-11e9-9885-77c49bc89caa.png)
 
