@@ -5,7 +5,7 @@
 # Implemented Algorithm: None
 ########################################################################################################################################
 
-import SmallStepGiantStep
+import BabyStepGiantStep
 import BruteForce
 import sys
 
@@ -32,7 +32,7 @@ def main (fileName):
 
         # Output values of the algorithms
         print "Brute Force:\t\tx =", BruteForce.calculateExponent(base, value, modulus)
-        print "Small-Step, Giant-Step:\tx =", SmallStepGiantStep.calculateExponent(base, value, modulus)
+        print "Small-Step, Giant-Step:\tx =", BabyStepGiantStep.calculateExponent(base, value, modulus)
 
 
 # This is done to run the main function
