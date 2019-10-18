@@ -1,4 +1,4 @@
-# Discrete Log Algorithm
+# Discrete Logarithm Algorithm
 Implemented algorithms for cracking the Discrete Logarithm Problem (DLP)
 
 ## Test cases
