@@ -32,7 +32,7 @@ def main (fileName):
 
         # Output values of the algorithms
         print "Brute Force:\t\tx =", BruteForce.calculateExponent(base, value, modulus)
-        print "Small-Step, Giant-Step:\tx =", BabyStepGiantStep.calculateExponent(base, value, modulus)
+        print "Baby-Step, Giant-Step:\tx =", BabyStepGiantStep.calculateExponent(base, value, modulus)
 
 
 # This is done to run the main function
