@@ -31,8 +31,8 @@ def main (fileName):
         outputEqn(base, value, modulus)                     # Output the equation being solved
 
         # Output values of the algorithms
-        print "Brute Force:\t\tx =", BruteForce.calculateExponent(base, value, modulus)
-        print "Baby-Step, Giant-Step:\tx =", BabyStepGiantStep.calculateExponent(base, value, modulus)
+        print "Brute Force:\t\tx =", BruteForce.bruteForce(base, value, modulus)
+        print "Baby-Step, Giant-Step:\tx =", BabyStepGiantStep.babyStepGiantStep(base, value, modulus)
 
 
 # This is done to run the main function
