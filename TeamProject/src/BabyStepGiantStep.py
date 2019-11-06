@@ -31,4 +31,4 @@ def babyStepGiantStep(base, value, modulus):
 
 
 if __name__ == "__main__":
-    print babyStepGiantStep(2, 7709318, 20084173)
+    print babyStepGiantStep(2, 1234567, 389151817)

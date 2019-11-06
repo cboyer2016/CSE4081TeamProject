@@ -10,12 +10,12 @@
 # O(modulus).
 ########################################################################################################################################
 def bruteForce(base, value, modulus):
-    for exponent in range(modulus):                     # Iterate over all possible exponent powers
+    exponent = 0                                        # exponent to make the 
+    while exponent is not modulus:                      # Iterate over all possible exponent powers
         if (pow(base,exponent, modulus) == value):      # Check if the exponent makes the values congruent
             return exponent                             # Return the value if congruent
         exponent += 1                                   # Increment the value by 1
-    
     return None                                         # Return None if there is not a logarithm
 
 if __name__ == "__main__":
-    print bruteForce(2, 7709318, 20084173)
+    print bruteForce(10, 5, 541)
